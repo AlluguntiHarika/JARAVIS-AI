@@ -1,0 +1,3 @@
+Diligent is an AI-powered GRC platform.
+It helps organizations manage governance, risk, and compliance.
+The platform is used by boards and executives worldwide.
