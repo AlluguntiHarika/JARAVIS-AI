@@ -16,17 +16,7 @@ Embeddings: sentence-transformers (all-MiniLM-L6-v2)
 
 Architecture: RAG (Retrieval-Augmented Generation)
 
-Project Structure
-jarvis-ai/
-│
-├── chat.py                # Streamlit chat interface
-├── ingest.py              # Data ingestion into Pinecone
-├── retriever.py           # Semantic retrieval from Pinecone
-├── requirements.txt       # Project dependencies
-├── .gitignore             # Ignored files and folders
-├── data/
-│   └── company_docs.txt   # Sample knowledge base
-└── README.md              # Project documentation
+
 
 Setup Instructions
 1. Clone the Repository
